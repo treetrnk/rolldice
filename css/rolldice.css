@@ -3,7 +3,19 @@
   src: url(./fonts/Fate-Core-Font.ttf);
 }
 
+#rolldice {
+  padding: 7px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 200px;
+  text-align: center;
+}
+
+#rolldice input[type=text] {
+  max-width: 65%;
+}
+
 #rolldice_result {
   font-family: "fate-font";
-  font-size: 36pt;
+  font-size: 28pt;
 }
