@@ -1,0 +1,9 @@
+@font-face {
+  font-family: fate-font;
+  src: url(./fonts/Fate-Core-Font.ttf);
+}
+
+#rolldice_result {
+  font-family: "fate-font";
+  font-size: 36pt;
+}
